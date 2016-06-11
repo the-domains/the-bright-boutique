@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Bright Boutique]]></title>
+        <description><![CDATA[The Bright Boutique]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 11 Jun 2016 16:46:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c609666f-cf54-430d-9d1c-4becb027fecc.jpg">]]></description>
+            <link>undefineda-boutique-with-springtown-ladies-in-mind/index.html</link>
+            <guid isPermaLink="false">5c6b86e9-767b-4ac2-a84c-4a2b8ab38964</guid>
+            <pubDate>Sat, 11 Jun 2016 16:46:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
